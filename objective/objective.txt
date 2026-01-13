@@ -1,0 +1,9 @@
+The Ojective of the project is to extract textual data from multiple online articles, clean and process
+the data, and perform sentiment analysis using predefined positive amd negative word dictionaries.
+The project automates the entire process using Python ->
+(1) Scraping article content from provided URLs 
+(2) Removing unnecessary and stopwords 
+(3) Measuring Postive and Negative sentiment 
+(4) Calculating clean word count 
+(5) Generating a structure in excel output 
+It demonstrates the application of NLP for automated text analysis and sentiment evaluation.
